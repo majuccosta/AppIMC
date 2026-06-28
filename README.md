@@ -1,4 +1,4 @@
-# App Classificador de IMC — Android
+# App Classificador de IMC — Android 
 
 Aplicativo Android desenvolvido na disciplina de **Programação para Dispositivos Móveis (PDM)** 
 
